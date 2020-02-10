@@ -1,0 +1,45 @@
+                                                                                    Instructions                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                    Objective of the game:                                                                                                                          
+                                                     The Killer: go through the maze to find and kill the Survivor.                                                                 
+                                                                                                                                                                                    
+                                    Abilities of the Killer:                                                                                                                        
+                                                     The Killer:Break 1 tile of wall with a 7 second cooldown using the "L" key.                                                    
+                                                               :Black out the Survivors spotlight with a 5 seconds cooldown using the ";" key.                                      
+                                                               :50 damage of attack                                                                                                 
+                                                               :200 Health                                                                                                          
+                                                                                                                                                                                    
+                                    Obejective of the game:                                                                                                                         
+                                                      The Survivor: Go through the maze to find and activate generators.                                                            
+                                                      There are 6 Generators in total , the survivor has to activate 3                                                              
+                                                      to gain a class of their choice so that they can fight back the killer.                                                       
+                                    Abilities of the Survivor:Rotate and place walls with a 5 seconds cooldown using the "R" key.                                                   
+                                                              :Activate generators by pressing the "W" key 5 times followed by 10 for the 2nd                                       
+                                                               and 15 for the 3rd.                                                                                                  
+                                                              :At the start of the game the survivor may place 3 traps using the mouse around the map                               
+                                    Enviroment of the Maze:                                                                                                                         
+                                                       The Generators: The are six of them with the # symbol spread throughout the map.                                             
+                                                       The Traps: Traps are already in the map and they shoot projectiles which do 50 damage each.                                  
+                                                                  A trap shooting up is    ^                                                                                        
+                                                                                                                                                                                    
+                                                                  A trap shooting left is  (                                                                                        
+                                                                                                                                                                                    
+                                                                  A trap shooting right is )                                                                                        
+                                                                                                                                                                                    
+                                                                  A trap shooting down is  +                                                                                        
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+                                                                                                                                                                                    
